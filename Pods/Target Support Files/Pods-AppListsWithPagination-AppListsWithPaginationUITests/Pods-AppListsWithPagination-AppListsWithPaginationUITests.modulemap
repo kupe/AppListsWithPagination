@@ -1,0 +1,6 @@
+framework module Pods_AppListsWithPagination_AppListsWithPaginationUITests {
+  umbrella header "Pods-AppListsWithPagination-AppListsWithPaginationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
